@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there! I'm Anirudh, or Andro if you prefer [androbuddy.github.io][website] 👋
 
-<!--
-**AndroBuddy/AndroBuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A student who can Design and Develop stuff
 
-Here are some ideas to get you started:
+- 🔭 Working at @Project-Fluid, the **fluid** AOSP rom you'll _ever_ taste
+- 🌱 Learning as always, C++ is my bias, Java on the line and python **maybe**?
+- 🥅 Creating designs when I'm _bored_, just head over to Figma
+- 💬 Ask me about games ...
+- ⚡ It always has been Valorant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socialise with me:
+
+[<img align="left" alt="androbuddy.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AndroBuddy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[website]: https://androbuddy.github.io
+[twitter]: https://twitter.com/androbuddy007
