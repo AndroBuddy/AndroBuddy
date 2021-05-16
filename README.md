@@ -1,4 +1,4 @@
-### Hello there! I'm Anirudh, or Andro if you prefer [androbuddy.github.io][website] 👋
+### Hello there! I'm Anirudh, or Andro if you prefer [androbuddy.github.io/studio-wingress][website] 👋
 
 ## A student who can Design and Develop stuff
 
