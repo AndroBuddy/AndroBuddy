@@ -27,9 +27,19 @@ When I'm free I usually spend time playing games, and very rarely do I do progra
 
 ## ⚙️ Tech Stack
 
-<a href="https://vuejs.org/"><img src="./assets/vue.svg" height=48px /></a> &nbsp; &nbsp;
-<a href="https://vitejs.dev/"><img src="./assets/vite.svg" height=48px /></a> &nbsp; &nbsp;
-<a href="https://www.figma.com/"><img src="./assets/figma.svg" height=48px /></a> &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/"><img src="./assets/vscode.svg" height=48px /></a> &nbsp; &nbsp;
-<a href="https://github.com/"><img src="./assets/github.svg" height=48px /></a> &nbsp; &nbsp;
-<a href="https://tailwindcss.com/"><img src="./assets/tailwind.svg" height=48px /></a> &nbsp; &nbsp;
+<div>
+  <a href="https://vuejs.org/"><img src="./assets/vue.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://vitejs.dev/"><img src="./assets/vite.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://tailwindcss.com/"><img src="./assets/tailwind.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://www.figma.com/"><img src="./assets/figma.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://code.visualstudio.com/"><img src="./assets/vscode.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://github.com/"><img src="./assets/github.svg" height=40px /></a> &nbsp; &nbsp;
+</div>
+
+## 📱 Social
+
+<div>
+  <a href="https://t.me/AndroBuddy"><img src="./assets/telegram.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/androbuddy07"><img src="./assets/twitter.svg" height=40px /></a> &nbsp; &nbsp;
+  <a href="https://instagram.com/tron_nemesis07"><img src="./assets/instagram.svg" height=40px /></a> &nbsp; &nbsp;
+</div>
