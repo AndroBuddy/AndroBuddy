@@ -7,23 +7,18 @@
 
 ## Glad to see you here!
 
-I'm Anirudh, currently a Computer Science undergrad at Mahindra University, Hyderabad.
+Frontend Developer at Kis.ai, Hyderabad
 
-They call me Andro on telegram and Tron on discord. You can call me either, it's the same for me.
+Anirudh in real life, Andro on telegram, Tron on discord. You can call me either, it's the same.
 
-I enjoy creating user interfaces and designs whenever I have the opportunity. I can get quite nitpicky when it comes to details due my habit of attaining pixel perfection. I do need a lot of music at max volume to concentrate.
+I enjoy creating user interfaces and designs whenever an opportunity strikes. I do get quite nitpicky when it comes to the tiny details (pardon my obsession for pixel perfection). I do need music to get in the flow.
 
-I'm proficient at Frontend webdev and appdev (preferably native Android), as well as I do a pretty good job at User Interfaces of any apps or websites I make. Currently I have a solid 4 years experience with VueJS as a webdev framework and Figma as my prototyping tool. I've just gotten hands on Procreate to hone the graphic designer in me as well, but I guess that's for another time.
+Proficient at Frontend webdev and appdev (preferably native Android). Pretty good at designing User Interfaces for apps or websites too.
+I've got some years worth of experience with VueJS, ReactJS (self taught), and Figma as my prototyping tool.
 
-I have an ongoing custom ROM project based on AOSP, [Project Fluid](https://github.com/Project-Fluid). I Co Founded it with 2 other very cool guys, and currently manage the UI/UX as well as the project website live at [projectfluid.org](https://projectfluid.org). Would totally recommend giving a look once, pretty proud of this one.
+I worked a custom ROM project based on AOSP, [Project Fluid](https://github.com/Project-Fluid). Co Founded it with 2 other very cool guys, personally managing the UI/UX as well as the project website live at [projectfluid.org](https://projectfluid.org). Would totally recommend giving it a good look, pretty proud of this one.
 
-When I'm free I usually spend time playing games, and very rarely do I do programming, usually in C++ or Kotlin.
-
-## 🌌 Work I do at leisure
-
-- 💻 Making designs and learning new skills
-- 🎮 Playing video games
-- 🎵 Blasting music into ears
+When I'm free I usually spend time playing games, watching shows or writing about space, quantum realities and that stuff.
 
 ## ⚙️ Tech Stack
 
@@ -40,6 +35,5 @@ When I'm free I usually spend time playing games, and very rarely do I do progra
 
 <div>
   <a href="https://t.me/AndroBuddy"><img src="./assets/telegram.svg" height=40px /></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/androbuddy07"><img src="./assets/twitter.svg" height=40px /></a> &nbsp; &nbsp;
   <a href="https://instagram.com/tron_nemesis07"><img src="./assets/instagram.svg" height=40px /></a> &nbsp; &nbsp;
 </div>
